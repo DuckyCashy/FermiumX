@@ -1,7 +1,7 @@
 # FermiumX
 
 <p align="center">
-  <img src="YOUR_LOGO_IMAGE_URL_HERE" alt="FermiumX Logo" width="400">
+  <img src="banner.png" alt="FermiumX Logo" width="400">
 </p>
 
 FermiumX is a powerful Roblox Script made for Arsenal.
