@@ -11,7 +11,7 @@ FermiumX is a powerful Roblox Script made for Arsenal.
 Loadstring to execute FermiumX!
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DuckyCashy/FermiumX/source.lua)() 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DuckyCashy/FermiumX/refs/heads/main/source.lua')() 
 ```
 ## Features
 
